@@ -1,3 +1,14 @@
+
+This Custom Laravel Authentication System:
+Register Page:
+
+
+
+![Screenshot (118)](https://user-images.githubusercontent.com/85999223/196502055-6480181d-03b6-40c2-87c2-c21db68e957b.png)
+
+Login:
+![Screenshot (117)](https://user-images.githubusercontent.com/85999223/196502149-0403cd38-a3bb-4ca1-a191-097b114c0b48.png)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
